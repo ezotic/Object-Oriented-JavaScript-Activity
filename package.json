@@ -1,0 +1,19 @@
+{
+  "name": "object-oriented-javascript-activity",
+  "version": "1.0.0",
+  "description": "## Part 1 Create an object literal to represent a Facebook post. Include any `properties` or `functions` you think you might need. Try accessing and updating the contents with both `bracket notation` and `dot notation`. See and example below: ```javascript let post = {     name: \"Kaleb Burd\",     message: \"@coderhino why is your code hot garbage?\" }",
+  "main": "fb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezotic/Object-Oriented-JavaScript-Activity.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ezotic/Object-Oriented-JavaScript-Activity/issues"
+  },
+  "homepage": "https://github.com/ezotic/Object-Oriented-JavaScript-Activity#readme"
+}
